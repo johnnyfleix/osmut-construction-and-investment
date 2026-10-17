@@ -1,0 +1,6 @@
+{
+  "name": "OSMUT Construction and Investment",
+  "description": "Official corporate website for OSMUT Construction and Investment, a Ghanaian diversified business enterprise operating in construction, international trade, agriculture, farm supplies, cosmetics, food products, and commercial investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
